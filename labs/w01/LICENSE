@@ -1,0 +1,16 @@
+Lab 1 materials for Agency with AI.
+
+Course-authored files in this folder, including the code, the documentation,
+and the constructed records in code/new-cars.tsv, are (c) 2026 Shen Shen and
+licensed under Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0).
+https://creativecommons.org/licenses/by-sa/4.0/
+
+code/cars.tsv is adapted from Auto MPG by R. Quinlan, UCI Machine Learning
+Repository, distributed under CC BY 4.0. The adaptation puts a binary gas-use
+label in place of numeric MPG. The files in code/provided-results/ are computed
+from that data and carry the same terms.
+https://doi.org/10.24432/C5859H
+https://creativecommons.org/licenses/by/4.0/
+
+code/DATA.md describes both data files and where they come from.

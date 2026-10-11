@@ -1,0 +1,393 @@
+row_id	label	weight	cylinders	model_year	car_name
+1	1	4732	8	1970	hi 1200d
+2	1	4376	8	1970	chevy c20
+3	1	4615	8	1970	ford f250
+4	1	4382	8	1970	dodge d200
+5	1	3664	8	1973	oldsmobile omega
+6	1	4997	8	1973	chevrolet impala
+7	1	4633	8	1972	mercury marquis
+8	1	4456	8	1972	oldsmobile delta 88 royale
+9	1	4499	8	1973	oldsmobile vista cruiser
+10	1	4955	8	1971	dodge monaco (sw)
+11	1	4906	8	1973	ford country
+12	1	4952	8	1973	mercury marquis brougham
+13	1	4951	8	1973	buick electra 225 custom
+14	1	3169	8	1975	ford mustang ii
+15	1	3870	8	1976	ford f108
+16	1	4294	8	1972	ford gran torino (sw)
+17	1	4098	8	1972	chevrolet chevelle concours (sw)
+18	1	3755	8	1976	dodge d100
+19	1	3940	8	1976	plymouth volare premier v8
+20	1	3988	8	1973	chevrolet malibu
+21	1	4055	8	1976	chevy c10
+22	1	4699	8	1974	buick century luxus (sw)
+23	1	4502	8	1972	buick lesabre custom
+24	1	4274	8	1972	chevrolet impala
+25	1	4100	8	1973	buick century 350
+26	1	4363	8	1973	ford ltd
+27	1	4654	8	1973	plymouth custom suburb
+28	1	3821	8	1973	amc ambassador brougham
+29	1	4464	8	1973	chevrolet caprice classic
+30	1	4746	8	1971	ford country squire (sw)
+31	1	5140	8	1971	pontiac safari (sw)
+32	1	4422	8	1972	chrysler newport royal
+33	1	4735	8	1973	chrysler new yorker brougham
+34	1	4042	8	1973	ford gran torino
+35	1	4638	8	1974	ford gran torino (sw)
+36	1	3672	8	1973	amc matador
+37	1	4257	8	1974	amc matador (sw)
+38	1	4077	8	1972	plymouth satellite custom (sw)
+39	1	4096	8	1971	plymouth fury iii
+40	1	4237	8	1973	plymouth fury gran sedan
+41	1	4457	8	1974	dodge coronet custom (sw)
+42	1	3609	8	1970	plymouth 'cuda 340
+43	1	4209	8	1971	chevrolet impala
+44	1	4657	8	1975	ford ltd
+45	1	4129	8	1972	ford galaxie 500
+46	1	4154	8	1971	ford galaxie 500
+47	1	4385	8	1972	pontiac catalina
+48	1	4464	8	1971	pontiac catalina brougham
+49	1	4312	8	1970	plymouth fury iii
+50	1	4354	8	1970	chevrolet impala
+51	1	3086	8	1970	buick estate wagon (sw)
+52	1	4425	8	1970	pontiac catalina
+53	1	4215	8	1976	ford gran torino
+54	1	3336	6	1974	chevrolet nova
+55	1	3158	6	1975	ford maverick
+56	1	3432	6	1975	mercury monarch
+57	1	3730	6	1975	amc matador
+58	1	4295	8	1977	mercury cougar brougham
+59	1	3892	8	1972	amc matador (sw)
+60	1	3399	8	1973	dodge dart custom
+61	1	3777	8	1973	dodge coronet custom
+62	1	4135	8	1972	plymouth fury iii
+63	1	4082	8	1973	chevrolet monte carlo s
+64	1	4440	8	1975	chevrolet bel air
+65	1	3693	8	1970	buick skylark 320
+66	1	3563	8	1970	dodge challenger se
+67	1	3850	8	1970	amc ambassador dpl
+68	1	3761	8	1970	chevrolet monte carlo
+69	1	4341	8	1970	ford galaxie 500
+70	1	3962	8	1976	amc matador
+71	1	4140	8	1977	dodge monaco brougham
+72	1	4165	8	1977	chevrolet monte carlo landau
+73	1	4054	8	1979	ford country squire (sw)
+74	1	4325	8	1977	chrysler cordoba
+75	1	3439	6	1971	plymouth satellite custom
+76	1	3278	6	1973	chevrolet nova custom
+77	1	3781	6	1974	chevrolet chevelle malibu classic
+78	1	3897	6	1975	chevroelt chevelle malibu
+79	1	3632	6	1974	amc matador
+80	1	4141	8	1974	ford gran torino
+81	1	3433	8	1970	amc rebel sst
+82	1	4190	8	1976	dodge coronet brougham
+83	1	4498	8	1975	plymouth grand fury
+84	1	4335	8	1977	ford thunderbird
+85	1	4668	8	1975	pontiac catalina
+86	1	4220	8	1977	pontiac grand prix lj
+87	1	4278	8	1973	pontiac grand prix
+88	1	3410	6	1978	peugeot 604sl
+89	1	3820	6	1976	mercedes-benz 280s
+90	1	4380	8	1976	cadillac seville
+91	1	3955	8	1979	mercury grand marquis
+92	1	4360	8	1979	buick estate wagon (sw)
+93	1	3140	6	1978	volvo 264gl
+94	1	3907	6	1975	buick century
+95	1	3329	6	1971	chevrolet chevelle malibu
+96	1	4060	8	1977	oldsmobile cutlass supreme
+97	1	3449	8	1970	ford torino
+98	1	3672	8	1972	amc ambassador sst
+99	1	3840	8	1979	chevrolet caprice classic
+100	1	3520	6	1977	chevrolet concours
+101	1	3193	6	1976	amc pacer d/l
+102	1	4215	8	1976	chevrolet chevelle malibu classic
+103	1	3880	8	1977	chevrolet caprice classic
+104	1	4080	8	1978	dodge magnum xe
+105	1	3465	6	1981	chrysler lebaron salon
+106	1	3725	8	1979	ford ltd landau
+107	1	3445	6	1978	buick regal sport coupe (turbo)
+108	1	2124	3	1973	maxda rx3
+109	1	2933	4	1972	volvo 145e (sw)
+110	1	2984	6	1975	ford pinto
+111	1	2774	6	1970	amc hornet
+112	1	3121	6	1973	plymouth valiant
+113	1	3613	6	1974	plymouth satellite sebring
+114	1	3785	6	1975	plymouth fury
+115	1	2789	6	1973	amc gremlin
+116	1	2945	6	1973	amc hornet
+117	1	3288	6	1971	amc matador
+118	1	3459	6	1975	chevrolet nova
+119	1	3574	6	1976	ford granada ghia
+120	1	3021	6	1973	ford maverick
+121	1	3139	6	1971	ford mustang
+122	1	2962	6	1971	amc hornet sportabout (sw)
+123	1	3504	8	1970	chevrolet chevelle malibu
+124	1	3436	8	1970	plymouth satellite
+125	1	3410	6	1978	amc concord d/l
+126	1	3205	8	1978	ford futura
+127	1	3830	8	1979	dodge st. regis
+128	1	3645	6	1976	pontiac ventura sj
+129	1	3525	6	1977	ford granada
+130	1	3940	8	1979	chrysler lebaron town @ country (sw)
+131	1	3620	6	1978	dodge aspen
+132	1	2330	3	1972	mazda rx2 coupe
+133	1	3270	4	1976	peugeot 504
+134	1	2868	4	1973	volvo 144ea
+135	1	2310	4	1973	ford pinto
+136	1	2930	6	1976	toyota mark ii
+137	1	3630	6	1977	plymouth volare custom
+138	1	3264	6	1975	plymouth valiant custom
+139	1	2634	6	1971	amc gremlin
+140	1	2901	6	1974	amc hornet
+141	1	3211	6	1975	amc pacer
+142	1	3282	6	1971	pontiac firebird
+143	1	3302	6	1971	ford torino 500
+144	1	3381	6	1980	dodge aspen
+145	1	3535	6	1978	pontiac phoenix lj
+146	1	3605	8	1979	chevrolet malibu classic (sw)
+147	1	3425	8	1978	chevrolet monte carlo landau
+148	1	3210	6	1978	amc concord
+149	1	3735	8	1978	dodge diplomat
+150	1	2990	6	1979	mercury zephyr 6
+151	1	3365	8	1978	oldsmobile cutlass salon brougham
+152	1	2582	4	1973	audi 100ls
+153	1	3150	4	1976	volvo 245
+154	1	2408	4	1972	chevrolet vega
+155	1	2279	4	1973	toyota carina
+156	1	2807	6	1973	toyota mark ii
+157	1	3102	6	1974	plymouth duster
+158	1	3651	6	1976	dodge aspen se
+159	1	2914	6	1975	amc gremlin
+160	1	3221	8	1975	chevrolet monza 2+2
+161	1	2965	6	1978	ford fairmont (auto)
+162	1	3060	6	1981	ford granada gl
+163	1	3265	6	1979	amc concord dl 6
+164	1	3570	8	1978	mercury monarch ghia
+165	1	2830	5	1978	audi 5000
+166	1	3155	6	1978	chevrolet malibu
+167	1	3430	6	1978	plymouth volare
+168	1	3425	6	1977	buick skylark
+169	1	3360	6	1979	dodge aspen 6
+170	1	3380	6	1978	buick century special
+171	1	3070	6	1978	mercury zephyr
+172	1	2979	4	1972	peugeot 504 (sw)
+173	1	2226	4	1972	ford pinto runabout
+174	1	2401	4	1973	chevrolet vega
+175	1	2472	6	1973	mercury capri v6
+176	1	2648	6	1970	amc gremlin
+177	1	2587	6	1970	ford maverick
+178	1	3039	6	1975	buick skyhawk
+179	1	2515	4	1978	toyota celica gt liftback
+180	1	2720	3	1977	mazda rx-4
+181	1	2600	4	1977	bmw 320i
+182	1	3245	6	1979	pontiac lemans v6
+183	1	2795	4	1978	saab 99gle
+184	1	2379	4	1973	datsun 610
+185	1	2511	4	1972	volkswagen 411 (sw)
+186	1	2945	4	1975	volvo 244dl
+187	1	2395	4	1972	ford pinto (sw)
+188	1	2408	4	1971	chevrolet vega (sw)
+189	1	2815	6	1977	datsun 810
+190	1	2833	6	1970	plymouth duster
+191	1	3233	6	1976	plymouth valiant
+192	1	2835	6	1982	ford granada l
+193	1	3353	6	1976	chevrolet nova
+194	1	2890	4	1979	ford fairmont 4
+195	1	3415	6	1981	buick century
+196	1	3085	6	1976	amc hornet
+197	0	2694	4	1975	audi 100ls
+198	0	2957	4	1975	peugeot 504
+199	0	2506	4	1972	toyota corona mark ii (sw)
+200	0	2220	4	1971	mercury capri 2000
+201	0	2592	4	1975	pontiac astro
+202	0	2639	4	1975	ford pinto
+203	0	2254	4	1972	volkswagen type 3
+204	0	2904	6	1973	plymouth duster
+205	0	3900	8	1979	cadillac eldorado
+206	0	2745	4	1978	plymouth sapporo
+207	0	2725	6	1981	chevrolet citation
+208	0	2420	3	1980	mazda rx-7 gs
+209	0	2855	4	1978	oldsmobile starfire sx
+210	0	2405	4	1978	datsun 200-sx
+211	0	3420	8	1979	oldsmobile cutlass salon brougham
+212	0	2430	4	1970	audi 100 ls
+213	0	2278	4	1972	toyota corona hardtop
+214	0	2372	4	1970	toyota corona mark ii
+215	0	2158	4	1973	opel manta
+216	0	2545	4	1975	datsun 710
+217	0	2489	4	1974	honda civic
+218	0	2660	4	1973	saab 99le
+219	0	2702	4	1975	toyota corona
+220	0	2865	4	1982	ford fairmont futura
+221	0	2108	4	1974	fiat 128
+222	0	3012	6	1976	ford maverick
+223	0	2930	6	1981	datsun 810 maxima
+224	0	3003	4	1980	amc concord
+225	0	2740	4	1977	pontiac sunbird coupe
+226	0	2164	4	1976	chevrolet woody
+227	0	2375	4	1970	saab 99e
+228	0	2672	4	1970	peugeot 504
+229	0	2228	4	1971	toyota corona
+230	0	2220	4	1976	opel 1900
+231	0	2671	4	1975	saab 99le
+232	0	2542	4	1974	chevrolet vega
+233	0	2572	4	1976	capri ii
+234	0	2223	4	1975	volkswagen dasher
+235	0	2126	4	1972	dodge colt hardtop
+236	0	2945	6	1982	buick century limited
+237	0	2720	4	1978	ford fairmont (man)
+238	0	3530	5	1979	mercedes benz 300d
+239	0	2900	6	1981	toyota cressida
+240	0	2300	4	1977	plymouth arrow gs
+241	0	2755	4	1977	ford mustang ii 2+2
+242	0	2620	4	1981	dodge aries wagon (sw)
+243	0	2391	4	1974	subaru
+244	0	2246	4	1974	fiat 124 tc
+245	0	2234	4	1970	bmw 2002
+246	0	2451	4	1974	ford pinto
+247	0	2585	4	1982	chrysler lebaron medallion
+248	0	1963	4	1974	volkswagen dasher
+249	0	1955	4	1971	plymouth cricket
+250	0	2189	4	1972	renault 12 (sw)
+251	0	1835	4	1970	volkswagen 1131 deluxe sedan
+252	0	1950	4	1973	volkswagen super beetle
+253	0	2265	4	1977	toyota corolla liftback
+254	0	2300	4	1974	opel manta
+255	0	2255	4	1976	dodge colt
+256	0	2265	4	1973	fiat 124 sport coupe
+257	0	2870	4	1980	ford fairmont
+258	0	2565	4	1976	ford pinto
+259	0	2635	4	1981	buick skylark
+260	0	3725	8	1981	oldsmobile cutlass ls
+261	0	2700	6	1979	oldsmobile omega brougham
+262	0	2202	4	1976	renault 12tl
+263	0	2640	4	1982	chevrolet cavalier wagon
+264	0	2790	4	1982	ford mustang gl
+265	0	2735	4	1982	pontiac phoenix
+266	0	2950	4	1982	chevrolet camaro
+267	0	1834	4	1971	volkswagen model 111
+268	0	2100	4	1972	toyota corolla 1600 (sw)
+269	0	2130	4	1970	datsun pl510
+270	0	2130	4	1971	datsun pl510
+271	0	2300	4	1978	datsun 510
+272	0	2490	4	1981	plymouth reliant
+273	0	3190	4	1979	peugeot 504
+274	0	2670	4	1979	amc spirit dl
+275	0	2560	4	1978	toyota corona
+276	0	2800	4	1980	dodge colt
+277	0	2464	4	1976	fiat 131
+278	0	2605	4	1982	chevrolet cavalier
+279	0	2123	4	1971	opel 1900
+280	0	2625	4	1982	ford ranger
+281	0	2264	4	1971	chevrolet vega 2300
+282	0	2678	4	1980	chevrolet citation
+283	0	2125	4	1974	dodge colt
+284	0	2155	4	1976	toyota corolla
+285	0	2288	4	1972	datsun 510 (sw)
+286	0	2164	4	1972	dodge colt (sw)
+287	0	3230	4	1981	peugeot 505s turbo diesel
+288	0	2670	4	1979	buick skylark limited
+289	0	2595	6	1979	chevrolet citation
+290	0	2525	4	1982	dodge aries se
+291	0	1867	4	1973	fiat 128
+292	0	2035	4	1976	chevrolet chevette
+293	0	1937	4	1975	volkswagen rabbit
+294	0	1937	4	1976	vw rabbit
+295	0	2171	4	1975	toyota corolla
+296	0	1940	4	1977	volkswagen rabbit custom
+297	0	2219	4	1974	audi fox
+298	0	1825	4	1976	volkswagen rabbit
+299	0	2135	4	1978	honda accord lx
+300	0	2711	4	1980	toyota corona liftback
+301	0	1845	4	1980	vokswagen rabbit
+302	0	2380	4	1981	ford escort 2h
+303	0	2155	4	1977	buick opel isuzu deluxe
+304	0	2385	4	1981	plymouth reliant
+305	0	3250	4	1980	mercedes-benz 240d
+306	0	2074	4	1971	peugeot 304
+307	0	2065	4	1971	fiat 124b
+308	0	1985	4	1977	subaru dl
+309	0	2155	4	1978	chevrolet chevette
+310	0	2190	4	1977	volkswagen dasher
+311	0	2051	4	1977	chevrolet chevette
+312	0	3160	6	1981	volvo diesel
+313	0	2230	4	1978	dodge omni
+314	0	2575	4	1982	pontiac j2000 se hatchback
+315	0	2720	4	1982	chevy s-10
+316	0	1773	4	1971	toyota corolla 1200
+317	0	1649	4	1974	toyota corona
+318	0	1950	4	1974	datsun b210
+319	0	2000	4	1974	fiat x1.9
+320	0	1970	4	1982	mazda glc custom
+321	0	2542	4	1980	mazda 626
+322	0	1990	4	1978	volkswagen scirocco
+323	0	2045	4	1977	honda accord cvcc
+324	0	2635	4	1981	mazda 626
+325	0	2020	4	1979	datsun 210
+326	0	1925	4	1979	vw rabbit custom
+327	0	2295	4	1982	dodge rampage
+328	0	2665	4	1982	toyota celica gt
+329	0	1836	4	1974	toyota corolla 1200
+330	0	2003	4	1974	datsun 710
+331	0	1990	4	1976	datsun b-210
+332	0	1965	4	1982	honda civic (auto)
+333	0	2120	4	1980	chevrolet chevette
+334	0	2265	4	1980	toyota corolla
+335	0	2065	4	1981	subaru
+336	0	2290	4	1980	honda accord
+337	0	2350	4	1981	toyota corolla
+338	0	2910	6	1980	datsun 280-zx
+339	0	1985	4	1978	mazda glc deluxe
+340	0	2615	4	1981	datsun 200sx
+341	0	2190	4	1981	volkswagen jetta
+342	0	1795	4	1976	honda civic
+343	0	1795	4	1975	honda civic cvcc
+344	0	2556	4	1979	pontiac phoenix
+345	0	1945	4	1977	datsun f-10 hatchback
+346	0	2075	4	1977	dodge colt m/m
+347	0	2210	4	1981	honda prelude
+348	0	2145	4	1980	subaru dl
+349	0	2245	4	1982	toyota corolla
+350	0	2395	4	1982	chevrolet cavalier 2-door
+351	0	1975	4	1979	maxda glc deluxe
+352	0	1985	4	1981	mazda glc 4
+353	0	2200	4	1979	plymouth horizon
+354	0	2188	4	1980	audi 4000
+355	0	2045	4	1981	ford escort 4w
+356	0	2150	4	1979	plymouth horizon tc3
+357	0	2215	4	1981	plymouth horizon 4
+358	0	2500	4	1980	triumph tr7 coupe
+359	0	1613	4	1971	datsun 1200
+360	0	1760	4	1981	honda civic 1300
+361	0	1915	4	1979	dodge colt hatchback custom
+362	0	1980	4	1982	volkswagen rabbit l
+363	0	2205	4	1982	honda accord
+364	0	2160	4	1982	nissan stanza xe
+365	0	2370	4	1982	dodge charger 2.2
+366	0	1825	4	1977	renault 5 gtl
+367	0	2125	4	1982	mercury lynx l
+368	0	1800	4	1978	honda civic cvcc
+369	0	1800	4	1978	ford fiesta
+370	0	2950	5	1980	audi 5000s (diesel)
+371	0	2434	4	1980	datsun 510 hatchback
+372	0	1975	4	1981	datsun 210 mpg
+373	0	2025	4	1982	mazda glc custom l
+374	0	2019	4	1980	datsun 310
+375	0	2130	4	1979	fiat strada custom
+376	0	2050	4	1981	toyota tercel
+377	0	2125	4	1982	plymouth horizon miser
+378	0	1965	4	1982	honda civic
+379	0	1995	4	1982	datsun 310 gx
+380	0	3015	6	1982	oldsmobile cutlass ciera (diesel)
+381	0	1968	4	1980	toyota corolla tercel
+382	0	1875	4	1981	plymouth champ
+383	0	1755	4	1981	toyota starlet
+384	0	2070	4	1978	datsun b210 gx
+385	0	2110	4	1980	datsun 210
+386	0	2144	4	1980	vw rabbit
+387	0	1985	4	1978	volkswagen rabbit custom diesel
+388	0	2335	4	1980	vw dasher (diesel)
+389	0	2130	4	1982	vw pickup
+390	0	2085	4	1980	vw rabbit c (diesel)
+391	0	1850	4	1980	honda civic 1500 gl
+392	0	2110	4	1980	mazda glc

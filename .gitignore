@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+
+# Lab bundles are served from the course site; the lab pages link there.
+*.zip
